@@ -1,6 +1,6 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DzidanCH/Boy
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DzidanCH/AcidIsland
 build-by-default: true
 branches:
 - master
-projects: [AcidIsland]
+projects: []
 ...
